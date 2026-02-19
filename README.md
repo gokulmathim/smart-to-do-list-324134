@@ -1,1 +1,3 @@
-# smart-to-do-list-324134
+# Project Repository
+
+This is the initial README file for the project.
